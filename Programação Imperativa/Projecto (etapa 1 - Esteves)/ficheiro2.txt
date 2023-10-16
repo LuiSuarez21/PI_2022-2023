@@ -1,0 +1,4 @@
+M_1 Trotinete 0,20 8,00
+M_2 Trotinete 0,20 11,00
+M_3 Carro 0,80 150,00
+M_4 Bicicleta 0,30 17,00
